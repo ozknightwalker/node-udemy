@@ -1,0 +1,26 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozknightwalker/node-udemy.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Jc Din <ozknightwalker62@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozknightwalker/node-udemy/issues"
+  },
+  "homepage": "https://github.com/ozknightwalker/node-udemy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
